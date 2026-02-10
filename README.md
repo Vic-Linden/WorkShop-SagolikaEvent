@@ -5,7 +5,7 @@ This project was created during a school workshop with a focus on **HTML and CSS
 Our group chose to create a marketing website for a fictional service where you can **rent a unicorn** for events, parties, or corporate activities.
 The purpose of the project was to practice layout, structure, and styling, with a small use of **JavaScript** to add a fun sparkle effect.
 
-🌐 **Live demo:** [View the website](https://vic-linden.github.io/WorkShopPortfolio/)
+🌐 **Live demo:** [View the website]((https://vic-linden.github.io/WorkShop-SagolikaEvent/))
 
 
 # Project Purpose
